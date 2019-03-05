@@ -1,0 +1,5 @@
+-g group1 -n case1 -r ls /root
+-g group2 -n case2 -p 2 -r sleep 10
+-g group2 -n case1 -p 1 -r pwd
+-g group2 -n case3 -p 2 -r pwd
+-g group2 -n case4 -p 3 -r pwd
